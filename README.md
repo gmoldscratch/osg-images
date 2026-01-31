@@ -1,2 +1,2 @@
-# bear-images
-Images for Old Scratch's Bear Blogs
+# oldscratch-images
+images.oldscratch.games
